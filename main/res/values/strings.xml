@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">BikeShop2</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="supplier_title">Supplier</string>
-    <string name="my_shop_title">My shop</string>
-    <string name="my_shop_fragm_text">My Shop fragment text</string>
-    <string name="supplier_fragm_text">Supplier fragment text</string>
-</resources>
